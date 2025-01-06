@@ -6,33 +6,48 @@
       {
         "id": "9ee349b9de73b4eb",
         "type": "tabs",
+        "dimension": 69.90291262135922,
         "children": [
-          {
-            "id": "915749d7f09d25f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diffusion Model Theory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diffusion Model Theory"
-            }
-          },
           {
             "id": "a4be3c720ba87866",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Diffusion Model Basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Diffusion Model Basic"
+            }
+          },
+          {
+            "id": "32aafeb6baadd21e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KL Divergence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KL Divergence"
+            }
+          },
+          {
+            "id": "c297899e15f5a196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information Theory Basic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Information Theory Basic"
             }
           }
         ]
@@ -40,6 +55,7 @@
       {
         "id": "ee78876275b26208",
         "type": "tabs",
+        "dimension": 30.097087378640776,
         "children": [
           {
             "id": "d951835163a030ab",
@@ -126,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diffusion Model Theory.md",
+                "file": "Diffusion Model Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Diffusion Model Theory"
+              "title": "Backlinks for Diffusion Model Basic"
             }
           },
           {
@@ -145,12 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diffusion Model Theory.md",
+                "file": "Diffusion Model Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Diffusion Model Theory"
+              "title": "Outgoing links from Diffusion Model Basic"
             }
           },
           {
@@ -172,10 +188,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diffusion Model Theory.md"
+                "file": "Diffusion Model Basic.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Diffusion Model Theory"
+              "title": "Outline of Diffusion Model Basic"
             }
           }
         ]
@@ -195,10 +211,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "915749d7f09d25f9",
+  "active": "a4be3c720ba87866",
   "lastOpenFiles": [
+    "Diffusion Model Basic.md",
+    "KL Divergence.md",
+    "Information Theory Basic.md",
+    "create a link.md",
     "Welcome.md",
-    "Diffusion Model Theory.md",
-    "create a link.md"
+    "2025-01-05.md"
   ]
 }

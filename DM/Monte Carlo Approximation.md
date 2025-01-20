@@ -1,0 +1,1 @@
+A method to calculate high order integration$$I = \int_{\Omega}f(x)dx\approx\frac{1}{N}\sum_{i=1}^Nf(x_i)\text{: if x can be randomly sampled from }\Omega$$Or in a more general form: $$I=\mathbb{E}_{q(x)}[f(x)]=\int f(x)q(x)dx\approx\frac{1}{N}\sum_{i=1}^Nf(x_i):x_i\ sampled\ from\ q(x)$$
